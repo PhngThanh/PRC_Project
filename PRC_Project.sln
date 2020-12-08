@@ -9,7 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRC_Project.Services", "PRC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRC_Project.API", "PRC_Project.API\PRC_Project.API.csproj", "{EA61918F-B9DD-455E-A380-2935D4F8C7DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRC_Project.WebApp", "PRC_Project.WebApp\PRC_Project.WebApp.csproj", "{6DE2963A-8E0B-4848-8017-68C76C241DB0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B1B604BE-E3BB-4EBB-B4D3-4A8F66787D83}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +32,6 @@ Global
 		{EA61918F-B9DD-455E-A380-2935D4F8C7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA61918F-B9DD-455E-A380-2935D4F8C7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA61918F-B9DD-455E-A380-2935D4F8C7DF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6DE2963A-8E0B-4848-8017-68C76C241DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6DE2963A-8E0B-4848-8017-68C76C241DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6DE2963A-8E0B-4848-8017-68C76C241DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6DE2963A-8E0B-4848-8017-68C76C241DB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
